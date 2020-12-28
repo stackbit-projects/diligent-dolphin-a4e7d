@@ -1,5 +1,5 @@
 ---
-title: Blue
+title: Bluebox
 sections:
   - section_id: hero
     type: section_hero
